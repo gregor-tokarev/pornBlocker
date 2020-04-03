@@ -1,0 +1,41 @@
+#
+# Здесь начинается блокировка порно ресурсов стран снг и не только если вы хотите помоч проэкту, то переходите по ссылке
+# https://github.com/zipper123915/pornBlocker - здесь вы можите пополнить список сайтов с взрослым контентом.
+
+0.0.0.0 porno365.blog
+0.0.0.0 www.porno365.blog
+0.0.0.0 russkoeporno.mobi
+0.0.0.0 www.russkoeporno.mobi
+0.0.0.0 porn3g.blog
+0.0.0.0 www.porn3g.blog
+0.0.0.0 24tube.tv
+0.0.0.0 www.24tube.tv
+0.0.0.0 mir-seksa.tv
+0.0.0.0 www.mir-seksa.tv
+0.0.0.0 ebalovo.pro
+0.0.0.0 www.ebalovo.pro
+0.0.0.0 2pornovideo.com
+0.0.0.0 www.2pornovideo.com
+0.0.0.0 porno-tour.net
+0.0.0.0 www.porno-tour.net
+0.0.0.0 rt.pronhub.com
+0.0.0.0 www.pronhub.com
+0.0.0.0 pronhub.com
+0.0.0.0 102porno.com
+0.0.0.0 www.102porno.com
+0.0.0.0 pornomoll.com
+0.0.0.0 www.pornomoll.com
+0.0.0.0 порно.me
+0.0.0.0 www.порно.me
+0.0.0.0 dojkiporno.net
+0.0.0.0 www.dojkiporno.net
+0.0.0.0 porno-tour.xxx
+0.0.0.0 www.porno-tour.xxx
+0.0.0.0 smakporno.com
+0.0.0.0 www.smakporno.com
+0.0.0.0 porno-3.net
+0.0.0.0 www.porno-3.net
+0.0.0.0 pornogorod.net
+0.0.0.0 www.pornogorod.net
+0.0.0.0 porno-gid.online
+0.0.0.0 www.porno-gid.online
